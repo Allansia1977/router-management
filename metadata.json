@@ -1,0 +1,5 @@
+{
+  "name": "LocalLink Gateway",
+  "description": "A streamlined portal for one-tap access to your local network gateway configuration.",
+  "requestFramePermissions": []
+}
